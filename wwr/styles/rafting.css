@@ -7,6 +7,11 @@
     --body-font: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+header {
+    background-color: var(--primary-color);
+    color: var(--accent2-color);
+}
+
 * {
     margin: 0;
     padding: 0;
